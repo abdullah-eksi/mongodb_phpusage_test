@@ -30,9 +30,6 @@ App/
       home.php
 index.php
 vendor/
-  composer/
-  mongodb/
-  symfony/
   autoload.php
 .htaccess
 composer.json
